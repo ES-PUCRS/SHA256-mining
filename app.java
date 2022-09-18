@@ -7,7 +7,7 @@ public class app {
 
 	public static void main(String args[]) {
 		MessageDigest digest = null;
-		String clearName = "Cleyson";
+		String clearName = args[0];
 		String result = "";
 		int counter = 0;
 		try {

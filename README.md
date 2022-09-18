@@ -19,5 +19,19 @@ SHA256 (em binário): 0000 0000 0000 0000 0000 0000 0000 0011 0000 1011 ....
 Para conferir, pode usar o site: https://passwordsgenerator.net/sha256-hash-generator/
 
 
-
 Resposta deve ser o nome concatenado com o número encontrado.
+
+
+
+# Como executar
+
+Em um terminal windows, execute o arquivo .bat passando o nome por parâmetro
+
+run.bat Cleyson
+
+
+
+## Exemplo de artefato gerado
+
+00000002608AC1D7285CE6CFD8577B6CB43BC39CD133E61FCA0242C3F3EF88B8
+Cleyson221873747
